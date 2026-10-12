@@ -1,0 +1,31 @@
+I have 5 customers. Each customer has 7-8 products. The same product has multiple units.
+
+Example: Egg -> pcs
+
+Potato -> kg.
+
+Rider: 1 route, 5 points...
+
+Cancel: any quantity. Delivery proof required.
+
+Same 5 delivery addresses.
+
+Do not use AI.
+
+Need 5-10 customers.
+
+Need 7-8 products. Need units.
+
+Need a store.
+
+Will place orders.
+
+Need Google Maps.
+
+Calculate delivery time and the best route.
+
+Need a delivery man.
+
+Return/cancel order.
+
+Stock adjustment.
